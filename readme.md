@@ -76,6 +76,7 @@ For more Bluesky tools, check [Awesome Bluesky](https://github.com/notjuliet/awe
 ## Tools
 
 * [ATFile](https://github.com/ziodotsh/atfile) - Store and retrieve files on the ATmosphere.
+* [OpenPost](https://github.com/rodrgds/openpost) - Self-hosted social publishing tool that schedules posts to Bluesky through AT Protocol alongside other networks.
 * [ShopSavvy for Bluesky](https://github.com/shopsavvy/bluesky-shopsavvy) - AT Protocol suite: reactive mention bot for real-time price lookups, a custom deals feed generator, and a daily deal poster.
 
 ## Lexicons
